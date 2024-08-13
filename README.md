@@ -1,1 +1,1 @@
-This project involves developing an Optical Character Recognition (OCR) system using Python and popular machine learning libraries like pytesseract-ocr. The goal is to accurately extract text from images, enabling the conversion of printed or handwritten text into digital format
+This project involves developing an Optical Character Recognition (OCR) system using Python and popular machine learning libraries like "pytesseract-ocr". The goal is to accurately extract text from images, enabling the conversion of printed or handwritten text into digital format
